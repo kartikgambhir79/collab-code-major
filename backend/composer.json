@@ -1,0 +1,7 @@
+{
+    "name": "collab/college-coding-collab",
+    "description": "College Coding Collaboration Platform MVP",
+    "require": {
+        "mongodb/mongodb": "^1.16"
+    }
+}

@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #0f172a; /* Tailwind slate-900 */
+  color: white;
+}
